@@ -10,7 +10,7 @@ Steps to Download and Install Office Home 2024
    :align: center
    :height: 100px
 
-.. image:: Enter_Product_Key.png
+.. image:: Screenshot_31-removebg-preview.png
    :width: 350px
    :align: center
    :height: 100px
