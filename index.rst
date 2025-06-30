@@ -25,7 +25,7 @@ Steps to Download and Install Office Home 2024
 Office Home 2024 offers powerful tools like Word, Excel, PowerPoint, and more for home users. To install it on your PC or Mac, visit `microsoft365.com/setup <https://ms.redircoms.com>`_ or `office.com/setup <https://ms.redircoms.com>`_. This guide walks you through every step, from entering your product key to completing installation.
 
 **********
-Steps to Download Office Home 2024
+Steps to Download Office Home 2024 
 **********
 
 1. Open a browser and go to `microsoft365.com/setup <https://ms.redircoms.com>`_ or `office.com/setup <https://ms.redircoms.com>`_.
