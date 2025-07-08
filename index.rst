@@ -1,6 +1,5 @@
 ##################
 How to Download and Install Microsoft Office Home 2024
-
 ##################
 
 .. meta::
